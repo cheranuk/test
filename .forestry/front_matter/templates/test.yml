@@ -6,3 +6,5 @@ fields:
 - type: blocks
   name: test
   label: test
+pages:
+- test.md
