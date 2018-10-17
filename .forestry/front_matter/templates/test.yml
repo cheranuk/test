@@ -7,5 +7,5 @@ fields:
   name: test
   label: test
 pages:
-- _posts/test.md
+- _posts/2018-10-17-test.md
 - test.md
