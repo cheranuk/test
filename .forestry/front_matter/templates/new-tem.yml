@@ -2,4 +2,9 @@
 label: new tem
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: select
+  config:
+    source:
+      type: documents
+- type: boolean
